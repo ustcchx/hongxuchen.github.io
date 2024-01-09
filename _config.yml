@@ -81,12 +81,12 @@ analytics:
 # Site Author
 author:
   name             : "Hongxu Chen"
-  avatar           : "1.png"
+  avatar           : "me.png"
   bio              : "No study, no life"
   location         : "Hefei, China"
   employer         :
-  pubmed           : "###"
-  googlescholar    : "###"
+  pubmed           : #"###"
+  googlescholar    : #"###"
   email            : "hongxuchen.ustc@gmail.com"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
