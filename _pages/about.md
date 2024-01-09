@@ -13,7 +13,7 @@ My research interests involve machine learning, deep learning and its applicatio
 
 Research Experience
 -----
-#### USTC LUNA TEAM  
+### USTC LUNA TEAM  
 May. 2023 - Present  
 Advisor: Professor Qi Liu & Zhenya Huang  
 •	Provided a MooCCubeX education data analysis for Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA). Responsible for the backend API changes and optimization of the educational resource analysis module of USTC LUNA AI laboratory platform.  
@@ -21,7 +21,7 @@ Advisor: Professor Qi Liu & Zhenya Huang
 •	Used PyTorch to reproduce the residual neural network ResNet18 in the paper "Deep Residual Learning for Image Recognition" and applied it to the CIFAR10 dataset for image classification.  
 
   
-#### USTC Student Research Program  
+### USTC Student Research Program  
 Dec. 2023 - Present  
 Advisor: Professor Zhenya Huang  
 •	Researching on a method for evaluating test question resources based on Chain-of-Thought technology of large language model and its application.  
@@ -29,12 +29,12 @@ Advisor: Professor Zhenya Huang
   
 Leadership & Activities
 -----
-#### Mathematics competition tutor in Hefei No. 6 High School   
+### Mathematics competition tutor in Hefei No. 6 High School   
 Sep. 2023 - Present  
 •	Responsible for teaching Number Theory.  
 
   
-#### Member of USTC Calligraphy and Painting Club   
+### Member of USTC Calligraphy and Painting Club   
 Sep. 2021 - Present  
 •	Actively participated in club activities and often served as a volunteer.
 
