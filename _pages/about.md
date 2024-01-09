@@ -32,9 +32,9 @@ Leadership & Activities
 #### Mathematics competition tutor in Hefei No. 6 High School   
 Sep. 2023 - Present  
 •	Responsible for teaching Number Theory.  
-Member of USTC Calligraphy and Painting Club  
 
   
+#### Member of USTC Calligraphy and Painting Club   
 Sep. 2021 - Present  
 •	Actively participated in club activities and often served as a volunteer.
 
