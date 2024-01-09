@@ -3,9 +3,7 @@ permalink: /
 title: "Hongxu Chen(陈鸿绪)"
 excerpt: "About me"
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
+
 ---
 
 I’m a junior student from School of the Gifted Young at University of Science and Technology of China(USTC). My major is Data Science and Big Data Technology. 
