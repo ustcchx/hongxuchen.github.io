@@ -42,7 +42,7 @@ Sep. 2021 - Present
 
 Interests & hobbies
 -----
-Art is an important part of my life. I definitely am a Marvel fan. I love watching Marvel movies. My interests and hobbies are very diverse. I am skilled in painting, calligraphy and computer music composition. In my sapre time, I often do what I love. [Here](https://www.bilibili.com/video/BV1hk4y1g7UQ/) is a pop song that I composed.
+Art is an important part of my life. I definitely am a Marvel fan. I love watching Marvel movies. My interests and hobbies are very diverse. I am skilled in painting, calligraphy and computer music composition. In my spare time, I often do what I love. [Here](https://www.bilibili.com/video/BV1hk4y1g7UQ/) is a pop song that I composed.
 
 
 
