@@ -18,10 +18,8 @@ Research & Project Experience
 ### USTC LUNA TEAM  
 May. 2023 - Present  
 Advisor: Professor Qi Liu & Zhenya Huang  
-•	Provided a MooCCubeX education data analysis for Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA). Responsible for the backend API changes and optimization of the educational resource analysis module of USTC LUNA AI laboratory platform.  
+•	Provided a [MooCCubeX education data analysis](https://github.com/ustcchx/EduData/blob/master/docs/analysis/MOOCCubeX.ipynb) for Anhui Province Key Laboratory of Big Data Analysis and Application (BDAA). Responsible for the [backend](https://git.iai.bdaa.pro/luna/kg-edu-backend) API changes and optimization of the educational resource analysis module of USTC LUNA AI laboratory platform.  
 •	Involved in the project of using large language models(LLM) to split and annotate examination papers, responsible for testing the accuracy of paper splitting and prompt design.  
-•	Built a Transformer-based ViT-B/16 neural network for image classification and optimized the model based on the training dataset and GPU resources.  
-•	Used PyTorch to reproduce the residual neural network ResNet18 in the paper "Deep Residual Learning for Image Recognition" and applied it to the CIFAR10 dataset for image classification.  
 
   
 ### USTC Student Research Program  
