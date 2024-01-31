@@ -8,7 +8,7 @@ author_profile: true
 
 I’m a junior student from School of the Gifted Young at University of Science and Technology of China(中科大少年班学院). My major is Data Science and Big Data Technology.   
   
-My research interests involve machine learning, deep learning and its application in computer vision, multi-modal learning. I'm currently working in the [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student.  
+My research interests involve machine learning, deep learning and its application in computer vision, multi-modal learning, data science. I'm currently working in the [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student.  
   
 CV: [Hongxu Chen CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)  
 Email: hongxuchen.ustc@gmail.com
