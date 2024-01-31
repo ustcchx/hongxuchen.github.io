@@ -10,7 +10,7 @@ I’m a junior student from School of the Gifted Young at University of Science 
   
 My research interests involve machine learning, deep learning and its application in computer vision, multi-modal learning. I'm currently working in the [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student.  
   
-CV: [Hongxu Chen CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_Hongxu%20Chen.pdf)  
+CV: [Hongxu Chen CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)  
 Email: hongxuchen.ustc@gmail.com
 
 Research & Project Experience
