@@ -8,7 +8,7 @@ author_profile: true
 
 I’m a junior student from School of the Gifted Young at University of Science and Technology of China(中科大少年班学院). My major is Data Science and Big Data Technology.   
   
-My research interests involve multi-modal learning, efficient fine-tuning for large models and big data algorithms. I'm currently working in the [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets on [it](https://huggingface.co/Daxuxu36).
+My research interests involve multi-modal learning, efficient fine-tuning for large models and big data algorithms. I'm currently working in the [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets in [my hugging face space](https://huggingface.co/Daxuxu36).
   
 CV: [Hongxu Chen CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)  
 Email: hongxuchen@mail.ustc.edu.cn
