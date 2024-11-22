@@ -20,7 +20,7 @@ Research & Project Experience
 -----
 ### Curriculum Project 
 Sep. 2021 - Present  
-• Released the **ShopConcept** dataset, encompassing multiple shopping concepts, and conducted post-pretraining and LoRA-tuning on Yi-9B to develop a shopping agent [[Project](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts)][[Datasets](https://huggingface.co/datasets/Daxuxu36/Understanding-Shopping-Concepts-SFT)].
+• Released **ShopConcept** dataset, encompassing multiple shopping concepts, and conducted post-pretraining and LoRA-tuning on Yi-9B to develop a shopping agent [[Project](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts)][[Datasets](https://huggingface.co/datasets/Daxuxu36/Understanding-Shopping-Concepts-SFT)].
 
 
 ### USTC LUNA TEAM  
