@@ -11,7 +11,6 @@ I’m a junior student from School of the Gifted Young at University of Science 
 My research interests involve multi-modal learning, efficient transfer tuning (parameter-efficient & memory-efficient). I am a member of [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. Currently I am carrying out a six-month summer research internship in [LONG Group](https://long-group.cse.ust.hk/) at HKUST CSE.   
 
 I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets in [my hugging face space](https://huggingface.co/Daxuxu36). Please feel free to contact me if you have any question.
-// I also frequently publish my course assignment code on [GitHub](https://github.com/ustcchx?tab=repositories). 
 
 
   
@@ -32,21 +31,16 @@ Advisor: Prof. Zhenya Huang
 •	Participate in USTC graduate thesis review and responsible for document rule validation.  
 
 
-
 Leadership & Activities
 -----
 ### Mathematics competition tutor in Hefei No. 6 High School   
 Sep. 2023 - Present  
 •	Teach Number Theory.  
 
-  
-// ### Member of USTC Calligraphy and Painting Club   
-// Sep. 2021 - Present  
-// •	Actively participated in club activities and often served as a volunteer.
 
-// Interests & hobbies
-// -----
-// Art is an important part of my life. My interests and hobbies are very diverse. I am skilled in calligraphy and guitar playing.
+Interests & hobbies
+-----
+Art is an important part of my life. I am skilled in calligraphy and guitar playing.
 
 
 
