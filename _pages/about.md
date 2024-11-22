@@ -10,11 +10,11 @@ I’m a senior student from the School of the Gifted Young at University of Scie
   
 My research interests involve multi-modal learning, efficient transfer tuning (parameter-efficient & memory-efficient). I am a member of [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. Currently I am carrying out a six-month summer research internship in [LONG Group](https://long-group.cse.ust.hk/) at HKUST.   
 
-I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets [[Space](https://huggingface.co/Daxuxu36)]. Please feel free to contact me if you have any question.
+I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets. Please feel free to contact me if you have any question.
 
 
   
-[[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](hongxuchen@mail.ustc.edu.cn)]
+[[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
 Research & Project Experience
 -----
