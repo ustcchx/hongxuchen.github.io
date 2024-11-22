@@ -25,7 +25,7 @@ Sep. 2021 - Present
 
 ### USTC LUNA TEAM  
 May. 2023 - Present  
-Advisor: Prof. Zhenya Huang  
+Advisor: Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/)  
 •	Responsible for educational resource analysis module for LUNA AILab [[Project](https://git.iai.bdaa.pro/Anchor36)].  
 •	Participated in USTC graduate thesis review and responsible for document rule validation.  
 
