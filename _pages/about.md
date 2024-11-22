@@ -34,7 +34,7 @@ Leadership & Activities
 -----
 ### Mathematics Competition Tutor, Hefei No. 6 High School  
 Sep. 2023 - Present  
-•	Mentored students in number theory.  
+•	Provided mentorship in number theory.
 
 
 Interests & hobbies
