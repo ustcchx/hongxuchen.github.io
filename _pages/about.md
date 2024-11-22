@@ -27,14 +27,14 @@ Sep. 2021 - Present
 May. 2023 - Present  
 Advisor: Prof. Zhenya Huang  
 •	Responsible for educational resource analysis module for LUNA AILab [[Project](https://git.iai.bdaa.pro/Anchor36)].  
-•	Participate in USTC graduate thesis review and responsible for document rule validation.  
+•	Participated in USTC graduate thesis review and responsible for document rule validation.  
 
 
 Leadership & Activities
 -----
 ### Mathematics Competition Tutor, Hefei No. 6 High School  
 Sep. 2023 - Present  
-•	Teach number theory.  
+•	Mentored students in number theory.  
 
 
 Interests & hobbies
