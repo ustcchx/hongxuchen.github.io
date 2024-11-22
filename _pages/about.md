@@ -8,7 +8,7 @@ author_profile: true
 
 I’m a senior student from the School of the Gifted Young at University of Science and Technology of China (中科大少年班学院). My major is Data Science and Big Data Technology.   
   
-My research interests involve multi-modal learning, efficient transfer tuning (parameter-efficient & memory-efficient). I am a member of [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. Currently I am carrying out a six-month summer research internship in [LONG Group](https://long-group.cse.ust.hk/) at HKUST CSE.   
+My research interests involve multi-modal learning, efficient transfer tuning (parameter-efficient & memory-efficient). I am a member of [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. Currently I am carrying out a six-month summer research internship in [LONG Group](https://long-group.cse.ust.hk/) at HKUST.   
 
 I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets ([Space](https://huggingface.co/Daxuxu36)). Please feel free to contact me if you have any question.
 
