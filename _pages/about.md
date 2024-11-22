@@ -10,24 +10,23 @@ I’m a senior student from the School of the Gifted Young at University of Scie
   
 My research interests involve multi-modal learning, efficient transfer tuning (parameter-efficient & memory-efficient). I am a member of [LUNA](https://luna.bdaa.pro) team at USTC as an undergraduate student. Currently I am carrying out a six-month summer research internship in [LONG Group](https://long-group.cse.ust.hk/) at HKUST.   
 
-I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets ([Space](https://huggingface.co/Daxuxu36)). Please feel free to contact me if you have any question.
+I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets [[Space](https://huggingface.co/Daxuxu36)]. Please feel free to contact me if you have any question.
 
 
   
-CV: [Hongxu Chen CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)  
-Email: hongxuchen@mail.ustc.edu.cn
+[[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](hongxuchen@mail.ustc.edu.cn)]
 
 Research & Project Experience
 -----
 ### Curriculum Project 
 Sep. 2021 - Present  
-• Release **ShopConcept** datasets involve multiple shopping concepts and perform post pre-training and LoRA-tuning on Yi-9B to enhance the ability of shopping concept understanding ([Project](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts))([Datasets](https://huggingface.co/datasets/Daxuxu36/Understanding-Shopping-Concepts-SFT)).
+• Release **ShopConcept** datasets involve multiple shopping concepts and perform post pre-training and LoRA-tuning on Yi-9B to enhance the ability of shopping concept understanding [[Project](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts)][[Datasets](https://huggingface.co/datasets/Daxuxu36/Understanding-Shopping-Concepts-SFT)].
 
 
 ### USTC LUNA TEAM  
 May. 2023 - Present  
 Advisor: Prof. Zhenya Huang  
-•	Responsible for educational resource analysis module for LUNA AILab ([Project](https://git.iai.bdaa.pro/Anchor36)).  
+•	Responsible for educational resource analysis module for LUNA AILab [[Project](https://git.iai.bdaa.pro/Anchor36)].  
 •	Participate in USTC graduate thesis review and responsible for document rule validation.  
 
 
