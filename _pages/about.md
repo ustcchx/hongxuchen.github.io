@@ -14,7 +14,7 @@ I really enjoy Hugging Face and often publish some interesting fine-tuned models
 
 
   
-[[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
+[[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
 <!--Research & Project Experience
 -----
