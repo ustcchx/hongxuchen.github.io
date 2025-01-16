@@ -12,7 +12,7 @@ My research interests focus on **multimodal learning** and **efficient transfer 
 
 I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets. Please feel free to contact me if you have any question.
 
-It is extrimely excited to announce that I am going to stay in our [LONG Group](https://long-group.cse.ust.hk/) at hkust for my Phd career! 
+It is extremely excited to announce that I am going to stay in our [LONG Group](https://long-group.cse.ust.hk/) at HKUST for my future PHD career! 
   
 [[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
