@@ -19,7 +19,7 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 ### Publications
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
-  Computer Vision and Pattern Recognition (CVPR) (CVPR 2025)
+  Computer Vision and Pattern Recognition (CVPR 2025)
 
 <!--Research & Project Experience
 -----
