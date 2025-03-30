@@ -17,9 +17,9 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 [[CV](https://ustcchx.github.io/hongxuchen.github.io/files/CV_HongxuChen.pdf)][[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
 ### Publications
-IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
-Hongxu Chen, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
-In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025)  
+- IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
+  Hongxu Chen, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
+  In Proceedings of IEEE Conference on Computer Vision and Pattern Recognition (CVPR 2025)
 
 <!--Research & Project Experience
 -----
