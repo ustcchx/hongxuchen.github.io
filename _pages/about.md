@@ -8,7 +8,7 @@ author_profile: true
 
 I’m a senior student from the School of the Gifted Young at University of Science and Technology of China (中科大少年班学院). My major is Data Science and Big Data Technology.   
   
-My research interests lie in **model editing** and **efficient transfer learning**, with an emphasis on **parameter efficiency** and **memory efficiency**. I am currently an undergraduate student at USTC, where I am a member of the [LUNA](https://luna.bdaa.pro) team, working under the guidance of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/). Additionally, I had a six-month research internship with the [LONG Group](https://long-group.cse.ust.hk/) at HKUST, under the mentorship of [Prof. Long Chen](https://zjuchenlong.github.io/). 
+My research interests lie in **model editing** and **efficient transfer learning**, with an emphasis on **parameter efficiency** and **memory efficiency**. I am currently an undergraduate student at USTC, working under the guidance of [Prof. Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/). Additionally, I had a six-month research internship with the [LONG Group](https://long-group.cse.ust.hk/) at HKUST, under the mentorship of [Prof. Long Chen](https://zjuchenlong.github.io/). 
 
 I really enjoy Hugging Face and often publish some interesting fine-tuned models or datasets. Please feel free to contact me if you have any question.
 
