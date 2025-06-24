@@ -21,6 +21,10 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
   **Hongxu Chen**, Zhen Wang, Runshi Li, Bowei Zhu, Long Chen  
   Computer Vision and Pattern Recognition (CVPR 2025)
 
+### Honors & Awards
+- Tsung Dao Lee Prize, Top 3 in cohort (李政道奖学金)
+- Outstanding Undergraduate Thesis Award, top 5%
+- First Prize, Campus Calligraphy and Painting Competition
 <!--Research & Project Experience
 -----
 ### Curriculum Project 
