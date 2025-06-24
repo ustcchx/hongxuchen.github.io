@@ -25,7 +25,7 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 - Tsung Dao Lee Prize, Top 3 in Cohort (李政道奖学金)
 - Outstanding Undergraduate Thesis Award, top 5%
 - Bronze Award, Outstanding Student Scholarship
-- Second Prize, 35th Chinese High School Mathematics League, Top 3 in Cohort
+- Second Prize, 35th Chinese High School Mathematics League, Top 1 in Cohort
 - First Prize, Campus Calligraphy and Painting Competition
 
 
