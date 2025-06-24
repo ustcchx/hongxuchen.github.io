@@ -14,7 +14,7 @@ Please feel free to contact me if you have any questions about my projects or an
 
 It is extremely excited to announce that I am going to stay in our [LONG Group](https://long-group.cse.ust.hk/) at HKUST for my future PHD career! 
   
-[[CV](https://ustcchx.github.io/files/CV_HongxuChen.pdf)][[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
+[[Email](mailto:hongxuchen@mail.ustc.edu.cn)][[HuggingFace](https://huggingface.co/Daxuxu36)]
 
 ### Publications
 - IterIS: Iterative Inference-Solving Alignment for LoRA Merging[[pdf](https://arxiv.org/abs/2411.15231)]  
@@ -27,6 +27,5 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 - Bronze Award, Outstanding Student Scholarship
 - Second Prize, 35th Chinese High School Mathematics League, Top 3 in Province
 - First Prize, Campus Calligraphy and Painting Competition
-
 
 
