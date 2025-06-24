@@ -25,30 +25,6 @@ It is extremely excited to announce that I am going to stay in our [LONG Group](
 - Tsung Dao Lee Prize, Top 3 in cohort (李政道奖学金)
 - Outstanding Undergraduate Thesis Award, top 5%
 - First Prize, Campus Calligraphy and Painting Competition
-<!--Research & Project Experience
------
-### Curriculum Project 
-Sep. 2021 - Present  
-• Released **ShopConcept** dataset, encompassing multiple shopping concepts, and conducted post-pretraining and LoRA-tuning on Yi-9B to develop a shopping agent [[Project](https://huggingface.co/Daxuxu36/Yi-9B-Understanding-Shopping-Concepts)][[Datasets](https://huggingface.co/datasets/Daxuxu36/Understanding-Shopping-Concepts-SFT)].
-
-
-### USTC LUNA TEAM  
-May. 2023 - Present  
-Advisor: Prof. [Zhenya Huang](http://staff.ustc.edu.cn/~huangzhy/)  
-•	Responsible for educational resource analysis module for LUNA AILab [[Project](https://git.iai.bdaa.pro/Anchor36)].  
-•	Participated in USTC graduate thesis review and responsible for document rule validation.  
-
-
-Leadership & Activities
------
-### Mathematics Competition Tutor, Hefei No. 6 High School  
-Sep. 2023 - Present  
-•	Provided mentorship in number theory.
-
-
-Interests & hobbies
------
-Art is an important part of my life. I am skilled in calligraphy and guitar playing.-->
 
 
 
